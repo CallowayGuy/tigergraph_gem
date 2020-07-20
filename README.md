@@ -1,4 +1,4 @@
-# TigergraphGem
+# TigergraphGem TO BE MOVED TO OPEN C REPO WHEN READY
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/tigergraph_gem`. To experiment with that code, run `bin/console` for an interactive prompt.
 
